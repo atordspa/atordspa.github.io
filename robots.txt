@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atordspa.github.io/atordspa.txt.gz
+Sitemap: https://atordspa.github.io/app/atordspa.txt.gz
+Sitemap: https://atordspa.github.io/assets/atordspa.txt.gz
+Sitemap: https://atordspa.github.io/css/atordspa.txt.gz
+Sitemap: https://atordspa.github.io/includes/atordspa.txt.gz
+Sitemap: https://atordspa.github.io/item/atordspa.txt.gz
+Sitemap: https://atordspa.github.io/src/atordspa.txt.gz
